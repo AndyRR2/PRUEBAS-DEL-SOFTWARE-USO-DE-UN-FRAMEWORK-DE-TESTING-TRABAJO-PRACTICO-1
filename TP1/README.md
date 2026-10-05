@@ -2,7 +2,7 @@
 
 Trabajo Práctico 1 de Ingeniería de Software II.
 
-El proyecto implementa un sistema básico de gestión de productos de una tienda y contiene pruebas automatizadas utilizando xUnit y Moq.
+Implementa un sistema básico de gestión de productos de una tienda y contiene pruebas automatizadas utilizando xUnit y Moq.
 
 ## Estructura del proyecto
 
@@ -21,3 +21,10 @@ Desde la carpeta donde se encuentra `TP1.sln`, ejecutar:
 
 ```bash
 dotnet run --project GestionProductosTienda/GestionProductosTienda.csproj
+
+## Ejecutar los tests
+
+Desde la carpeta donde se encuentra `TP1.sln`, ejecutar:
+
+```bash
+dotnet test
