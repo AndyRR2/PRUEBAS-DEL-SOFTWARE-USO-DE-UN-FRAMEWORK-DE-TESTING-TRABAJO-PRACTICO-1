@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ROM25riK3zY=",
+  "success": true,
+  "projectFilePath": "D:\\Drive Estudio\\Proyecto de Estudio\\Universidad y Documentos\\Ingeniería en Informática UNT\\3-Ing Informática\\Cursar 2do Cuatrimestre 2026\\Ingeniería de Software II\\TPs\\TP1\\GestionProductosTienda\\GestionProductosTienda.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andya\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.11\\microsoft.netcore.app.ref.9.0.11.nupkg.sha512",
+    "C:\\Users\\andya\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.11\\microsoft.windowsdesktop.app.ref.9.0.11.nupkg.sha512",
+    "C:\\Users\\andya\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.11\\microsoft.aspnetcore.app.ref.9.0.11.nupkg.sha512",
+    "C:\\Users\\andya\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\9.0.11\\microsoft.netcore.app.host.win-x64.9.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
