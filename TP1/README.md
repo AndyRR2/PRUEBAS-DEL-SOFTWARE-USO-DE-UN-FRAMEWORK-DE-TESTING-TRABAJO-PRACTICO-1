@@ -21,6 +21,7 @@ Desde la carpeta donde se encuentra `TP1.sln`, ejecutar:
 
 ```bash
 dotnet run --project GestionProductosTienda/GestionProductosTienda.csproj
+```
 
 ## Ejecutar los tests
 
@@ -28,3 +29,4 @@ Desde la carpeta donde se encuentra `TP1.sln`, ejecutar:
 
 ```bash
 dotnet test
+```
